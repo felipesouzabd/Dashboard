@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  9 15:52:22 2024
 
-@author: felipe.damasceno
-"""
-
-import streamlit as st
+import streamlit
 
 streamlit.title('hello, world')
 
